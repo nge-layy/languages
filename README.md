@@ -5,12 +5,12 @@
 
 ---
 
-## 📌 Program Overview
+## Program Overview
 
 ```
  ┌───────────────────────────────────┬───────────────────────────────────┐
  │        PHASE 1: LEVEL A1          │        PHASE 2: LEVEL A2          │
- │          (Weeks 1 to 6)           │          (Weeks 7 to 12)         │
+ │          (Weeks 1 to 6)           │          (Weeks 7 to 12)          │
  ├───────────────────────────────────┼───────────────────────────────────┤
  │ • Core Foundations & Phonetics    │ • Advanced Cases (Dative/Genitive)│
  │ • Nominative & Accusative Cases   │ • Conversational Past (Perfekt)   │
@@ -21,7 +21,7 @@
 
 ---
 
-## 🗓️ Phase 1: Level A1 (Weeks 1–6)
+## Phase 1: Level A1 (Weeks 1–6)
 
 ### Key Grammar Foundations
 * **Gender & Articles:** *der* (masculine), *die* (feminine), *das* (neuter), *die* (plural).
@@ -43,7 +43,7 @@
 
 ---
 
-## 🗓️ Phase 2: Level A2 (Weeks 7–12)
+## Phase 2: Level A2 (Weeks 7–12)
 
 ### Key Grammar Foundations
 * **Dative Case:** Indirect objects and strictly Dative prepositions (*aus, bei, mit, nach, seit, von, zu*).
@@ -66,7 +66,7 @@
 
 ---
 
-## ⏰ Suggested Daily Schedule (2 Hours/Day)
+## Suggested Daily Schedule (2 Hours/Day)
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
